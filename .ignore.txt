@@ -1,0 +1,7 @@
+# 忽略所有文件
+*
+# 但不忽略 .obsidian 目录
+!.obsidian/
+!.obsidian/**
+# 也不忽略 .ignore 文件
+!.ignore

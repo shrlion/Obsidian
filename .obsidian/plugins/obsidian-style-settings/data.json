@@ -1,0 +1,23 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "null",
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-blue-mountain",
+  "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-dark-sky",
+  "blue-topaz-theme@@background-image-settings-switch": true,
+  "blue-topaz-theme@@toggle-nonoverlapping-bg": false,
+  "blue-topaz-theme@@bg-markdown-page-opacity-cp": 0.1,
+  "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-transparent",
+  "blue-topaz-theme@@background-notebook-liked-switch": true,
+  "blue-topaz-theme@@toggle-split-note-background": false,
+  "blue-topaz-theme@@toggle-bg-panel-page": false,
+  "blue-topaz-theme@@bg-panel-page-opacity-cp": 0.1,
+  "blue-topaz-theme@@bg-panel-page-option": "panel-page-bg-theme-light-custom",
+  "blue-topaz-theme@@tab-title-bar-position": true,
+  "blue-topaz-theme@@view-button-front": false,
+  "blue-topaz-theme@@file-bg-shape-option": "file-bg-rounded-rectangle",
+  "blue-topaz-theme@@dark-background-file": false,
+  "blue-topaz-theme@@remove-file-icons": false,
+  "blue-topaz-theme@@folder-icons": true,
+  "blue-topaz-theme@@folder-style-change-options-colorful": "folder-style-change-options-colorful-tab-liked",
+  "blue-topaz-theme@@folder-style-change-options-colorful-subfolder": "folder-colorful-six"
+}

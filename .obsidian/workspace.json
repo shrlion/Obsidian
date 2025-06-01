@@ -157,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -165,12 +166,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1e662ca2ea915be0",
+  "active": "80fce36cfbaba1d8",
   "lastOpenFiles": [
+    "未命名.md",
+    "学习.md",
     "Self/Ssh.py",
     "Self",
     "新建文件夹",
-    "未命名.canvas",
-    "学习.md"
+    "未命名.canvas"
   ]
 }

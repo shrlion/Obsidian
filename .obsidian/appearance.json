@@ -1,1 +1,6 @@
-{}
+{
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Cascadia Mono",
+  "textFontFamily": "Cascadia Mono"
+}

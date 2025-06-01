@@ -5,5 +5,9 @@
   "blue-topaz-theme@@background-notebook-liked-switch": false,
   "blue-topaz-theme@@file-bg-shape-option": "file-bg-rounded-rectangle",
   "blue-topaz-theme@@file-name-style-option": "file-name-non-wrapped",
-  "blue-topaz-theme@@remove-file-icons": false
+  "blue-topaz-theme@@remove-file-icons": false,
+  "blue-topaz-theme@@style-options-for-buttons-plugin": true,
+  "blue-topaz-theme@@share-thino-style": "thino-share-default",
+  "blue-topaz-theme@@folder-style-change-options-colorful-subfolder": "folder-colorful-six",
+  "blue-topaz-theme@@folder-style-change-options-colorful": "folder-style-change-options-colorful-tab-liked"
 }

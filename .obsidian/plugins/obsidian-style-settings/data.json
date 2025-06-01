@@ -7,7 +7,7 @@
   "blue-topaz-theme@@toggle-nonoverlapping-bg": false,
   "blue-topaz-theme@@bg-markdown-page-opacity-cp": 0.1,
   "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-transparent",
-  "blue-topaz-theme@@background-notebook-liked-switch": true,
+  "blue-topaz-theme@@background-notebook-liked-switch": false,
   "blue-topaz-theme@@toggle-split-note-background": false,
   "blue-topaz-theme@@toggle-bg-panel-page": false,
   "blue-topaz-theme@@bg-panel-page-opacity-cp": 0.1,

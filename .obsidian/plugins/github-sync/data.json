@@ -2,6 +2,6 @@
   "remoteURL": "https://github.com/shrlion/Obsidian.git",
   "gitLocation": "",
   "syncinterval": 5,
-  "isSyncOnLoad": true,
+  "isSyncOnLoad": false,
   "checkStatusOnLoad": true
 }

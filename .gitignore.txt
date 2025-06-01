@@ -4,4 +4,4 @@
 !.obsidian/
 !.obsidian/**
 # 也不忽略 .ignore 文件
-!.ignore
+!.gitignore

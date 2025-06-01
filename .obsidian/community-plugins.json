@@ -1,8 +1,5 @@
 [
-  "obsidian-style-settings",
-<<<<<<< HEAD
-  "github-sync"
-=======
-  "obsidian-git"
->>>>>>> 8f091710bf3f6a0de2318491a3f5fc56f0019b12
+  "obsidian-git",
+  "github-sync",
+  "obsidian-style-settings"
 ]

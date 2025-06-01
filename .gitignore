@@ -1,7 +1,7 @@
 # 忽略所有文件
 *
-# 但不忽略 .obsidian 目录
+# 但保留 .gitignore 文件（必须放在 * 规则之后）
+!.gitignore
+# 保留 .obsidian 目录及其内容
 !.obsidian/
 !.obsidian/**
-# 也不忽略 .ignore 文件
-!.gitignore

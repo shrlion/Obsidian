@@ -5,3 +5,5 @@
 # 保留 .obsidian 目录及其内容
 !.obsidian/
 !.obsidian/**
+# 保留README 文件
+README.md

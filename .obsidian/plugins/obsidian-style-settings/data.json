@@ -2,5 +2,8 @@
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
   "blue-topaz-theme@@background-settings-workplace-background-image": true,
   "blue-topaz-theme@@background-image-settings-switch": false,
-  "blue-topaz-theme@@background-notebook-liked-switch": false
+  "blue-topaz-theme@@background-notebook-liked-switch": false,
+  "blue-topaz-theme@@file-bg-shape-option": "file-bg-rounded-rectangle",
+  "blue-topaz-theme@@file-name-style-option": "file-name-non-wrapped",
+  "blue-topaz-theme@@remove-file-icons": false
 }

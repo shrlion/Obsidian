@@ -157,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:打开Git源代码管理": false,
       "obsidian-git:Open Git source control": false,
       "github-sync:Sync with Remote": false,
       "switcher:打开快速切换": false,
@@ -165,11 +166,10 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "i18n:I18N": false,
-      "obsidian-git:打开Git源代码管理": false
+      "i18n:I18N": false
     }
   },
-  "active": "1e662ca2ea915be0",
+  "active": "80fce36cfbaba1d8",
   "lastOpenFiles": [
     "Self/python/demo/README.md",
     "学习.md",

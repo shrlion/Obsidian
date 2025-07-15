@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e662ca2ea915be0",
+            "id": "b48fe7d8faadafbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习.md",
+                "file": "文档/编程/C语言.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "学习"
+              "title": "C语言"
             }
           }
         ]
@@ -168,7 +168,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-git:打开Git源代码管理": false,
-      "obsidian-git:Open Git source control": false,
       "github-sync:Sync with Remote": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -179,14 +178,25 @@
       "i18n:I18N": false
     }
   },
-  "active": "80fce36cfbaba1d8",
+  "active": "b48fe7d8faadafbf",
   "lastOpenFiles": [
+    "文档/学习.md",
+    "文档/编程/C语言.md",
+    "文档/docker/Docker.md",
+    "文档/编程",
+    "文档/Linux/文本处理.md",
+    "文档/Linux",
+    "文档/docker",
+    "文档",
+    "Self/python/demo/Ssh_conn.py",
+    "Self/python/demo/resp.py",
+    "Self/python/demo/__pycache__/re.cpython-311.pyc",
+    "Self/python/demo/uv.lock",
     "Self/python/demo/README.md",
-    "学习.md",
-    "未命名.md",
-    "Self/Ssh.py",
-    "Self",
-    "新建文件夹",
+    "Self/python/demo/pyproject.toml",
+    "Self/python/demo/main.py",
+    "Self/python/flask-project/README.md",
+    "Self/python/Flask-project/README.md",
     "未命名.canvas"
   ]
 }
